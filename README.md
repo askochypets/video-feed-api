@@ -8,7 +8,9 @@ This is a video feed API test exercise for playbuzz based on Nestjs framework.
 # install npm packages
 $ npm install
 
-# development
+# run the app
+
+# development mode
 $ npm run start
 
 # watch mode
