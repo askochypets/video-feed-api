@@ -1,6 +1,6 @@
 ## Description
 
-This is a video feed API test exercise for playbuzz.
+This is a video feed API test exercise for playbuzz based on Nestjs framework.
 
 ## Running the app
 
